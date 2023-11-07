@@ -1,0 +1,22 @@
+.footer {
+  background-color: #2c2b2b;
+  padding: 50px;
+  text-align: center;
+}
+
+.links {
+
+}
+
+.links a {
+  font-size: 30px;
+  color: #1EDD88;
+}
+
+.links p {
+  color: lightgray;
+}
+
+.fa-solid {
+  color: red;
+}
